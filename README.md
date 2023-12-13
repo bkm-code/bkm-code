@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bkm-code
 - 👀 I’m interested in Front End Development, and mildly curious about Back End programming languages.
-- 🌱 I’m currently learning Javascript, React-Redux & Typescript. 
+- 🌱 I’m currently following the freeCodeCamp.org curriculum; learning Javascript, React-Redux & Typescript.
 - 💞️ I’m looking to collaborate on anything Javascript. I'm open to learning new technologies.
 - 📫 How to reach me: bridgit.k.mutinda@gmail.com
 
